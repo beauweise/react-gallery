@@ -1,14 +1,14 @@
 
-import React, {Component} from 'react';
+// import React, {Component} from 'react';
 
-class GalleryItem extends Component{
+// class GalleryItem extends Component{
 
     
     
-        render(){
-            return(
+//         render(){
+//             return(
               
-            )
-        }
-    }
-export default GalleryItem;
+//             )
+//         }
+//     }
+// export default GalleryItem;
