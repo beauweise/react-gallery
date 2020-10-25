@@ -52,9 +52,8 @@ render() {
         <h1 className="App-title">Pictures of my Son</h1>
       </header>
       <br />
-      <p>Gallery goes here</p>
       <GalleryList imgs = {this.state.pictureList} like = {this.likeBtn} />
-      
+
     </div>
   );
 }
